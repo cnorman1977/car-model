@@ -1,0 +1,13 @@
+{
+  "filters": {
+    "all": "All",
+    "archived": "Archived",
+    "unread": "Unread"
+  },
+  "list": {
+    "empty": "No notifications found",
+    "empty_archived": "No archived notifications found",
+    "empty_selectedTab": "",
+    "empty_unread": "No unread notifications found"
+  }
+}

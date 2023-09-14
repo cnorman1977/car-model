@@ -1,0 +1,25 @@
+{
+  "splashScreen": {
+    "loadingMessage": {
+      "text": "Loading your details..."
+    }
+  },
+  "welcome": {
+    "page1": {
+      "subtitle": "Using data from your car and smart AI",
+      "title": "Understand what’s going on under the bonnet"
+    },
+    "page2": {
+      "subtitle": "We help spot small issues before they become big problems",
+      "title": "Get alerts if something seems wrong"
+    },
+    "page3": {
+      "subtitle": "If your car needs some love",
+      "title": "Easily book a garage or Mobile Mechanic "
+    },
+    "page4": {
+      "subtitle": "You’ll need an active AA membership to use AA-X",
+      "title": "Get connected"
+    }
+  }
+}

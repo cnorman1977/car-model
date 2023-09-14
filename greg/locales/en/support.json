@@ -1,0 +1,60 @@
+{
+  "deleteAccount": {
+    "button": {
+      "title": "Delete account"
+    },
+    "orCall": "or call us on",
+    "title": "Delete AA-X account",
+    "toDelete": "to delete your account."
+  },
+  "faq": {
+    "title": "FAQs"
+  },
+  "getHelp": {
+    "email": {
+      "button": {
+        "title": "Send e-mail"
+      }
+    },
+    "phone": {
+      "button": {
+        "title": "Call us"
+      }
+    },
+    "title": "Need help now?"
+  },
+  "installDevice": {
+    "button": {
+      "title": "Play Video"
+    },
+    "subHeading": "Video instructions",
+    "title": "Install device"
+  },
+  "legalDocuments": {
+    "privacy": {
+      "privacyNotice": {
+        "title": "Privacy Notice"
+      },
+      "repairService": {
+        "title": "Repair Service Privacy Notice"
+      }
+    },
+    "termsAndConditions": {
+      "app": {
+        "title": "App Terms & Conditions"
+      },
+      "repairService": {
+        "title": "Repair Services Terms & Conditions"
+      }
+    },
+    "title": "Legal Documents"
+  },
+  "legalScreen": {
+    "privacy": {
+      "title": "Privacy"
+    },
+    "termsAndConditions": {
+      "title": "Terms & Conditions"
+    }
+  }
+}

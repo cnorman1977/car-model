@@ -1,0 +1,11 @@
+{
+  "aa-x": {
+    "phone": {
+      "error": {
+        "body": "Failed to make phone call using your device",
+        "title": "Error"
+      },
+      "number": "03300530466"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "availabilityKey": {
+    "available": {
+      "text": "Available"
+    }
+  },
+  "buttonLabel": {
+    "defaultText": "Select Date"
+  }
+}

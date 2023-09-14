@@ -1,0 +1,168 @@
+{
+  "addressScreen": {
+    "form": {
+      "input": {
+        "addressLine1": {
+          "label": "Address Line 1"
+        },
+        "addressLine2": {
+          "label": "Address Line 2"
+        },
+        "addressLine3": {
+          "label": "Address Line 3"
+        },
+        "city": {
+          "label": "City"
+        },
+        "county": {
+          "label": "County"
+        },
+        "cta": "Save & Continue",
+        "fullName": {
+          "label": "Full name"
+        },
+        "postcode": {
+          "label": "Postcode"
+        }
+      },
+      "message": {
+        "separateAddressMessage": "This won’t affect the address on your account. "
+      }
+    },
+    "wrapper": {
+      "subtitle": "Please complete the form and enter the address where you would like us to deliver the plug-in.",
+      "title": "Add delivery address"
+    }
+  },
+  "addressScreen:successModal": {
+    "subtitle": "Success. You're one step closer to car intelligence.",
+    "title": "Car plug-in ordered"
+  },
+  "bookings": {
+    "button": "View history",
+    "empty": "You have no bookings currently",
+    "title": "Bookings"
+  },
+  "card": {
+    "bookServices": {
+      "subtitle_diagnostic": "Book a diagnostic",
+      "subtitle_service": "Book a service for your vehicle",
+      "subtitle_variant": "",
+      "title_diagnostic": "Found an Issue?",
+      "title_service": "Select a service",
+      "title_variant": ""
+    },
+    "mot": {
+      "subtitle": "Book within 30 days of due date",
+      "subtitle_due": "Book with a trusted garage",
+      "subtitle_motContext": "",
+      "subtitle_pastDue": "Don’t panic, let’s get you booked in straight away",
+      "title": "MOT Date",
+      "title_due": "MOT Due",
+      "title_motContext": "",
+      "title_pastDue": "MOT Overdue"
+    }
+  },
+  "carHealthWidget": {
+    "battery": {
+      "title": "Battery"
+    },
+    "engine": {
+      "title": "Engine"
+    },
+    "healthStatus": "",
+    "healthStatus_good": "Good",
+    "healthStatus_healthStatus": "",
+    "healthStatus_poor": "Poor",
+    "healthStatus_unknown": "No Data",
+    "healthStatus_veryPoor": "Very Poor"
+  },
+  "carInfoWidget": {
+    "title": "XXXGeneral car healthXXX"
+  },
+  "dongleStatus": {
+    "connectionConfirmed": {
+      "helpButton": {
+        "title": "Get help"
+      },
+      "proceedButton": {
+        "title": "Yes"
+      },
+      "title": "Have you connected the plug-in to the OBD port?"
+    },
+    "dongleOrdered": {
+      "subtitle": "Success. You're one step closer to car intelligence. Your order should arrive in 2-3 working days.",
+      "title": "Car plug-in ordered"
+    },
+    "install": {
+      "cta": "Install car plug-in",
+      "installationLocation": {
+        "error": "Error finding image, please refer to your car manual or contact help below",
+        "getHelp": {
+          "cta": "Get Help"
+        },
+        "showGuide": {
+          "cta": "Show Guide"
+        },
+        "subtitle": "The plug-in fits into your OBD port, located in the image above. Installing it only takes a few mins and our handy video will guide you through it.",
+        "title": "Finding your OBD port & installing your plug-in"
+      },
+      "link": "Already installed the plug-in?",
+      "subtitle": "When your device has arrived install the plug-in so we can connect your car to our app.",
+      "subtitle2": "It only takes a few minutes and we'll guide you along the way.",
+      "title": "Install the car plugin"
+    },
+    "installation": {
+      "continueButton": {
+        "text": "Continue"
+      }
+    },
+    "notifications": {
+      "subject": "Your order should be with you shortly.",
+      "subject_dispatching": "Your order has been dispatched and should be delivered within 2-3 working days.",
+      "subject_install": "Your order should have been delivered, please go ahead and install your plug-in.",
+      "subject_variant": "",
+      "title": "Order update",
+      "title_variant": ""
+    },
+    "orderDongle": {
+      "cta": "Order plug-in",
+      "subtitle": "To get personalised insights and alerts, you'll need a car plug-in which we'll connect to the app.",
+      "subtitle2": "It's free and and we'll deliver it to the UK address of your choice.",
+      "title": "Order a car plug-in"
+    }
+  },
+  "drivingStats": {
+    "subtitle": "View journey summaries, review your driving patterns, \n see mileage and trip costs and follow your driving score.",
+    "title": "Driving stats - Coming soon"
+  },
+  "event": {
+    "delivery": {
+      "subtitle": "Order tracking reference"
+    }
+  },
+  "reportABreakDown": {
+    "caption": "AA-X is separate from AA Breakdown. If you’ve broken down, follow the link to go to your AA Breakdown Membership",
+    "cta": {
+      "title": "Take me to AA Breakdown"
+    },
+    "title": "Need to report a breakdown?"
+  },
+  "stack": {
+    "titles": {
+      "battery": "Battery",
+      "bookDiagnostic": "Book a diagnostic",
+      "bookingConfirmation": "Booking confirmed",
+      "bookingOverview": "Your Booking",
+      "bookingSummary": "Booking Summary",
+      "bookMOT": "Book MOT",
+      "bookService": "Book a service",
+      "engine": "Engine",
+      "notifications": "Notifications",
+      "selectGarage": "Select a garage",
+      "smr": {
+        "history": "Booking History"
+      }
+    }
+  }
+}

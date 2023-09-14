@@ -1,0 +1,83 @@
+{
+  "engineFault": {
+    "cause": {
+      "title": "What's causing this to happen?"
+    },
+    "dateReported": {
+      "title": "Date reported: {{date}}"
+    },
+    "fault": {
+      "title_one": "We’ve detected 1 fault in your engine",
+      "title_other": "We’ve detected {{count}} faults in your engine"
+    },
+    "faultCode": {
+      "title": "Fault code: "
+    },
+    "infoModal": {
+      "description": "The device you installed can detect faults happening in your car in real time.",
+      "DTC": {
+        "description": "These codes are called DTC’s (Diagnostic Trouble Code) we also use our AI models that help us to identify, predict and recommend the right repairs and reports for you.",
+        "example": {
+          "code": "Fault code: P0401",
+          "description": "This is what the code looks like"
+        },
+        "tips": {
+          "description": "Although there are many fault codes and you could have many at any given time, some are just precautions and a warning that something like a part could be time to be replaced.",
+          "title": "What should you keep an eye out for?"
+        },
+        "title": "DTC fault code"
+      },
+      "tips": {
+        "attentionExample": {
+          "description": "We are letting you know about the fault and potential fix but this isn’t urgent right now",
+          "title": "Attention"
+        },
+        "description": "We categorise these into a few buckets and will let you know when it is something urgent versus a warning only.",
+        "urgentExample": {
+          "description": "You may breakdown within 14 days OR you should get this fixed within 14 days ",
+          "title": "Urgent"
+        }
+      },
+      "title": "What's causing these faults to be detected?"
+    },
+    "noFaults": {
+      "caption": "We’ll continue keeping an eye on it and will let you know if we pick up anything out of the ordinary. ",
+      "title": "You’re keeping your engine in good condition. Well done."
+    },
+    "recommendation": {
+      "title": "Recommendation"
+    },
+    "status": {
+      "description_one": "",
+      "description_other": "",
+      "description_good": "We're keeping a close eye on the engine in the meantime and will keep you updated if we notice anything out of the ordinary.",
+      "description_poor": "We've noticed an issue with the electrical circuit which monitors engine speed and position. This may increase fuel usage and exhaust emissions.",
+      "description_unknown": "Not enough data yet",
+      "description_veryPoor": "We've noticed an issue with the electrical circuit which monitors engine speed and position. This may increase fuel usage and exhaust emissions.",
+      "title_one": "",
+      "title_other": "",
+      "title_good": "You're doing a good job keeping your vehicles engine in an optimal condition",
+      "title_poor_one": "We've detected {{count}} fault in your engine",
+      "title_poor_other": "We've detected {{count}} faults in your engine",
+      "title_unknown": "We're unsure about your engine's condition",
+      "title_veryPoor_one": "We've detected {{count}} fault in your engine",
+      "title_veryPoor_other": "We've detected {{count}} faults in your engine"
+    },
+    "unknown": {
+      "description_zero": "We're not familiar with this code yet.",
+      "description_one": "We're not familiar with this code yet.",
+      "description_other": "We're not familiar with these codes yet.",
+      "title": "Unknown fault code",
+      "title_zero": "Unknown fault code",
+      "title_one": "Unknown fault code",
+      "title_other": "Unknown fault codes"
+    },
+    "unknownFault": {
+      "description": "We don’t have any information on this fault code right now. Lets get you booked in for a diagnostic check. If you want to discuss the fault with our experts, please get in touch.",
+      "helpButton": {
+        "title": "Call us"
+      },
+      "title": "We’re not exactly sure about this code"
+    }
+  }
+}

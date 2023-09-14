@@ -1,0 +1,57 @@
+{
+  "connection": {
+    "connectButton": {
+      "title": "Start connecting my vehicle data"
+    },
+    "page1": {
+      "subTitle": "Your car collects lots of useful data all the time. Having this is the key to AA-X’s engine. We can’t run without it.\n\nSo let’s get you sharing.",
+      "title": "Share your vehicle’s data"
+    },
+    "page2": {
+      "subTitle": "We analyse the information we get from your car to give you personalised insights about its health, help you look after your battery and engine, and learn how to drive more efficiently.",
+      "title": "How we use the data"
+    },
+    "page3": {
+      "subTitle": "The link below will take you to your manufacturer’s website. You’ll then be asked to enter information about your vehicle, which will enable your car to share its data with us. You’ll need to complete this step to use AA-X.\n\nPlease make sure you read the manufacturer’s privacy notice about how they process your personal information. If you decide not to share your data with us, you’ll no longer be able to use.\n\nAA-X.",
+      "title": "What’s next?"
+    }
+  },
+  "dashboardPanel": {
+    "cta": "Start connecting my vehicle",
+    "subtitle": "Get personalised insights and alerts by linking  the app to your vehicle manufacturer’s data (OEM).",
+    "title": "Connect and view your vehicle data"
+  },
+  "faq": {
+    "description": "We get health data directly from your car’s manufacturer. We’re working closely with them to be able to give you lots of valuable insights about your car, but we’re not at 100% yet. Thanks for bearing with us during this test phase.",
+    "faq1": {
+      "body": "An OEM (Original Equipment Manufacturer) connection is an alternative way to access your vehicle's health data. Instead of relying on a 3rd party device, data is sourced direct from the vehicle instead via a manufacturer-enabled feed. This ensures a rich and accurate feed of vehicle data.",
+      "title": "What is an OEM connection?"
+    },
+    "faq2": {
+      "body": "You must explicitly consent during the Onboarding to the CVH app. You will be directed to your manufacturer's own app, where you will have the option to allow the data feed to be read by the CVH app.",
+      "title": "How do I set up an OEM connection?"
+    },
+    "faq3": {
+      "body": "After enabling an OEM connection, data can start streaming to your app in as little as 20 minutes, depending on the manufacturer. Some manufacturers may broadcast data less frequently e.g. each time the vehicle takes a trip, rather than on a regular basis.",
+      "title": "How long do I have to wait to see my data?"
+    },
+    "faq4": {
+      "body": "On rare occasions, some manufacturers may not supply the full range of data that we need to power your app. This could affect one or more of the health tiles on your dashboard, which will have a grey status to reflect the lack of incoming data. We're working hard to constantly test and broaden the quality of data you receive in your app.",
+      "title": "Why am I seeing grey health statuses on my dashboard?"
+    },
+    "searchTerms": "Search",
+    "subTitle": "Frequently Asked Questions about Original Manufacturer data (OEM)",
+    "title": "About connected data"
+  },
+  "loginComplete": {
+    "button": "Back to AA-X",
+    "subTitle": "Thanks. Consent has been authorised and we are connecting the data.",
+    "title": "All done"
+  },
+  "screens": {
+    "OemConnection": "Connect vehicle",
+    "OemFaq": "Connected data",
+    "OemLoginComplete": "Manufacturer login",
+    "OemManufacturerLogin": "Manufacturer login"
+  }
+}

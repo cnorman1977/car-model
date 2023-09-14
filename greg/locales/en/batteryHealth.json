@@ -1,0 +1,124 @@
+{
+  "batteryFault": {
+    "dateReported": {
+      "title": "Date reported: "
+    },
+    "impactFactors": {
+      "description": "These are some factors that impact the issue you are seeing.",
+      "title": "Why this happened "
+    },
+    "infoModal": {
+      "description": "We predict your battery health using machine learning. Just like humans, machines learn from past experiences, so we use historical data from your car and others like it to come up with our recommendations. \n\nOur models are great but they don't always get it right, so always book a diagnostic test at a garage to determine what repairs are needed.",
+      "title": "What's causing these faults to be detected?"
+    },
+    "recommendation": {
+      "title": "Recommendation"
+    }
+  },
+  "faultDisplayData": {
+    "causes": {
+      "drivingFrequency": {
+        "description": "Your average number of trips in the last two weeks was higher than our averages.  This is good news for your battery, allowing it to recharge and improving it's lifespan.",
+        "title": "Driving frequency"
+      },
+      "tripLength": {
+        "description": "Your average trip duration in the last two weeks was lower than our averages.  Lots of short trips prevent your battery from recharging and can shorten it's lifespan, especially in older batteries.",
+        "title": "Trip length"
+      },
+      "voltage": {
+        "description": "Your battery voltage is irregular and can be a lead indicator of poor battery health.",
+        "title": "Voltage"
+      },
+      "weather": {
+        "description": "An outside temperature drop is coming . Many batteries need to be replaced when the temperature drops outside, especially if it's near the end of it's life.",
+        "title": "Weather"
+      }
+    },
+    "good": {
+      "confidence": {
+        "high": {
+          "description": "",
+          "recommendation": {
+            "title": "Learn more about how to keep your Battery in top condition."
+          },
+          "title": "Good news. Your battery's in good condition."
+        },
+        "low": {
+          "description": "",
+          "recommendation": {
+            "title": "Learn more about how to keep your Battery in top condition."
+          },
+          "title": "Good news. Your battery's in good condition."
+        },
+        "med": {
+          "description": "",
+          "recommendation": {
+            "title": "Learn more about how to keep your Battery in top condition."
+          },
+          "title": "Good news. Your battery's in good condition."
+        }
+      }
+    },
+    "poor": {
+      "confidence": {
+        "high": {
+          "description": "Your battery is in poor condition",
+          "recommendation": {
+            "title": "You may need to replace it within the next two months to avoid a breakdown."
+          },
+          "title": "Uh-oh. We've detected that your battery health could be degrading"
+        },
+        "low": {
+          "description": "Your battery is in poor condition",
+          "recommendation": {
+            "title": "We'll keep an eye on your battery and let you know if you need to take action"
+          },
+          "title": "Head's up. We've detected that your battery health could be degrading"
+        },
+        "med": {
+          "description": "Your battery is in poor condition",
+          "recommendation": {
+            "title": "We'll keep an eye on your battery and let you know if you need to take action"
+          },
+          "title": "Head's up. We've detected that your battery health could be degrading"
+        }
+      }
+    },
+    "unknown": {
+      "confidence": {
+        "low": {
+          "description": "",
+          "recommendation": {
+            "title": "Not enough data yet"
+          },
+          "title": "We're unsure about your battery's condition"
+        }
+      }
+    },
+    "veryPoor": {
+      "confidence": {
+        "high": {
+          "description": "Your battery needs attention",
+          "recommendation": {
+            "title": "You may need to replace it or your car could break down within 14 days. Don't panic, simply use the app to book it in now."
+          },
+          "title": "It looks like you may need to test your battery to prevent your car from breaking down"
+        },
+        "low": {
+          "description": "Your battery needs attention",
+          "recommendation": {
+            "title": "You may need to test your battery to prevent your car from breaking down."
+          },
+          "title": "It looks like your battery is in poor condition"
+        },
+        "med": {
+          "description": "Your battery needs attention",
+          "recommendation": {
+            "title": "You may need to test your battery to prevent your car from breaking down."
+          },
+          "title": "It looks like you may need to test your battery to prevent your car from breaking down"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "common": {
+    "billing": {
+      "incVat": "inc. VAT"
+    }
+  },
+  "legal": {
+    "title_appPrivacy": "AA-X Privacy Notice",
+    "title_appTerms": "AA-X Terms & Conditions",
+    "title_key": "",
+    "title_repairPrivacy": "Repair Service Privacy Notice",
+    "title_repairTerms": "Repair Service Terms"
+  },
+  "pageTitles": {
+    "invoice": "Invoice"
+  },
+  "standardCopy": {
+    "callsToAction": {
+      "contactUs": "Contact us"
+    }
+  }
+}

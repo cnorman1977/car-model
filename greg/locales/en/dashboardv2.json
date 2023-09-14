@@ -1,0 +1,29 @@
+{
+  "carHealthWidget": {
+    "battery": {
+      "title": "Battery health"
+    },
+    "engine": {
+      "title": "Engine status"
+    }
+  },
+  "event": {
+    "delivery": {
+      "title": "Plug-in delivery"
+    },
+    "installGuide": {
+      "cta": "Watch Video,",
+      "subtitle": "Find your OBD port, be ready to plug-in & connect",
+      "title": "Install guide"
+    },
+    "welcome": {
+      "subtitle": "Learn about the app and its feature",
+      "title": "Welcome to AA-X"
+    }
+  },
+  "section": {
+    "events": {
+      "title": "EVENTS & BOOKINGS"
+    }
+  }
+}

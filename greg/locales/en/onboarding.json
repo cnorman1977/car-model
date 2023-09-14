@@ -1,0 +1,121 @@
+{
+  "carousel": {
+    "cta": "Get Started"
+  },
+  "disclaimer": {
+    "eligibilityCheck": {
+      "checkboxAdditionalInfo": "<0><0>If you need our help, <2>get in touch here</2>.</0></0>",
+      "cta": "Check eligibility"
+    },
+    "lastUpdated": "Last updated: March 2023",
+
+    "termsAndConditionsForm": {
+      "checkbox": {
+        "error": "You must agree to the terms and conditions to continue."
+      },
+      "checkboxAdditionalInfo": "<0><0>Our <1>privacy notice</1> explains how and why we use your personal information – including what details we hold, who we might share it with, and your choices and rights.</0></0>",
+      "checkboxLabel": "<0>I agree to the AA-X <1>Terms</1></0>"
+    },
+    "text": "AA-X is currently free to eligible customers for free for a limited time for testing purposes. We may remove or change features at anytime. \n\nAA-X is a stand alone product that is not part of your AA Breakdown membership. If you're in a breakdown situation, please refer to your AA Breakdown policy documents.  \n\nWe may make suggestions about potential faults, car health and driving style. However this is indicative only and should not be your only source of information about your car. \n\nFaults cannot be verified without inspecting the car. Inspections and repairs are not included and must be purchased separately.",
+    "title": "AA-X - Important Information"
+  },
+  "dongleInstall": {
+    "video": {
+      "step1": "The plug-in",
+      "step2": "The OBD port",
+      "step3": "Install"
+    }
+  },
+  "eligibility": {
+    "eligibilityCard": {
+      "postcode": "Postcode",
+      "vrnTitle": "Car registration number"
+    },
+    "eligibilityCheck": {
+      "error": {
+        "carRegistration": {
+          "invalid": "This is an invalid car registration number"
+        },
+        "postcode": {
+          "invalid": "This is an invalid postcode"
+        }
+      },
+      "input": {
+        "carRegistration": {
+          "label": "Car registration number",
+          "placeholder": "AV22WFZ"
+        },
+        "postcode": {
+          "error": "This is an invalid postcode",
+          "label": "Postcode",
+          "placeholder": "SW1Y 4QE"
+        },
+        "vrn": {
+          "error": "This is an invalid car registration number"
+        }
+      },
+      "subtitle": "Enter your postcode and car registration number to find out if you're eligible for AA-X."
+    },
+    "eligibilityConfirm": {
+      "buttontext": "Confirm",
+      "buttonText": "Confirm",
+      "subtitle": "Let’s make sure we’ve got the right details",
+      "title": "Great, you’re eligible"
+    },
+    "eligibilityError": {
+      "explore": "Explore our other AA products here.",
+      "exploreCTA": "Explore"
+    },
+    "eligibilitySuccess": {
+      "callToAction": "Sign in",
+      "info": "Next up, sign into your AA account or create one so we can get you on the road to great car health.",
+      "title": "Great news, you're eligible to use AA-X with your vehicle for a limited time during this free testing period."
+    }
+  },
+  "oem:faq": {
+    "faq1": {
+      "body": "An OEM (Original Equipment Manufacturer) connection is an alternative way to access your vehicle's health data. Instead of relying on a 3rd party device, data is sourced direct from the vehicle instead via a manufacturer-enabled feed. This ensures a rich and accurate feed of vehicle data.",
+      "title": "What is an OEM connection?"
+    },
+    "faq2": {
+      "body": "You must explicitly consent during the Onboarding to the CVH app. You will be directed to your manufacturer's own app, where you will have the option to allow the data feed to be read by the CVH app.",
+      "title": "How do I set up an OEM connection?"
+    },
+    "faq3": {
+      "body": "After enabling an OEM connection, data can start streaming to your app in as little as 20 minutes, depending on the manufacturer. Some manufacturers may broadcast data less frequently e.g. each time the vehicle takes a trip, rather than on a regular basis.",
+      "title": "How long do I have to wait to see my data?"
+    },
+    "faq4": {
+      "body": "On rare occasions, some manufacturers may not supply the full range of data that we need to power your app. This could affect one or more of the health tiles on your dashboard, which will have a grey status to reflect the lack of incoming data. We're working hard to constantly test and broaden the quality of data you receive in your app.",
+      "title": "Why am I seeing grey health statuses on my dashboard?"
+    }
+  },
+  "stack": {
+    "titles": {
+      "checkEligibility": "Check eligibility"
+    }
+  },
+  "welcome": {
+    "CTA": "Check eligibility",
+    "eligible": "Check if you're eligible for AA-X.",
+    "findOutMore": "Find out more here",
+    "page1": {
+      "subtitle": "Get personalised insights about your car's health, look after your battery and engine, and learn to drive more efficiently. We gather data from your car in real time and combine it with machine learning to help you keep things running smoothly.",
+      "title": "Car intelligence"
+    },
+    "page2": {
+      "subtitle": "If something does go wrong, AA-X will send you an alert so you can nip it in the bud. In easy-to-understand language, so you can book a repair and feel confident at the garage. Upfront estimates put you in the driver's seat.",
+      "title": "Early alerts"
+    },
+    "page3": {
+      "subtitle": "Support throughout your car care journey. Book a diagnostic, MOT or service. Schedule a repair, get reminders and compare prices. Or call out a trusted AA mobile mechanic.\n\nExpert maintenance at your fingertips.",
+      "title": "Seamless support"
+    },
+    "page4": {
+      "subtitle": "You’ll need an active AA membership to use AA-X",
+      "title": "Get connected"
+    },
+    "subtitle": "AA-X is a new app that we're testing in specific areas with certain car models. At the moment it's only available for our AA members.",
+    "title": "Let's get your car connected"
+  }
+}

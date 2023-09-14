@@ -1,0 +1,267 @@
+{
+  "addPhone": {
+    "form": {
+      "input": {
+        "cta": "Update"
+      }
+    }
+  },
+  "basketEstimationProduct": {
+    "vat": "VAT"
+  },
+  "benefits": {
+    "main": {
+      "title": "The good stuff"
+    },
+    "section1": {
+      "description": "Yay, the diagnostic test is free. Regardless of whether the garage finds a fault of not.",
+      "title": "Free diagnostic"
+    },
+    "section2": {
+      "description": "Pay the exact price shown in the app if our prediction is correct. We use only AA approved parts.",
+      "title": "Peace of mind"
+    },
+    "section3": {
+      "description": "Parts and labour are guaranteed up to 1 year or up to 12,000 miles, whichever comes first. This doesn't affect your statutory rights.",
+      "title": "Additional Guarantee"
+    },
+    "section4": {
+      "description": "Our expert mechanics can come to you, or choose free collection and drop off.",
+      "title": "Convenient"
+    },
+    "section5": {
+      "description": "We'll manage the whole process for you, even dealing with the garage on your behalf.",
+      "title": "Hassle free"
+    }
+  },
+  "booking": {
+    "bookingConfirmed": {
+      "bookingAccordion": {
+        "caption_bookingContext": "",
+        "caption_garage": "Great news, the garage has confirmed your booking.",
+        "caption_mobile": "Great news, your booking has been confirmed.",
+        "infoCaption": "Manage your booking",
+        "infoLink": "What happens now?",
+        "infoText": "Call our AA-X assist team\non 03300 530466",
+        "title_bookingContext": "",
+        "title_garage": "Garage confirmed booking",
+        "title_mobile": "Booking confirmed"
+      },
+      "cancel": {
+        "caption": "If you need to change or cancel your booking you’ll need to ring us 24hrs before. We’re always happy to help.",
+        "infoCaption": "Need to amend your booking?",
+        "infoText": "Please call us. An AA-X service team member will be happy to help 0330 053 0466",
+        "title": "Change or cancel booking"
+      },
+      "infoModal": {
+        "caption": "Your booking has now been confirmed with the garage. Once the job is complete, we’ll call you to take payment.\n\nFind out what to expect at your appointment in our pre visit checks section.\n\nIf you need to change or cancel your booking, please call us.",
+        "title": "What happens now?"
+      },
+      "payment": {
+        "caption": "We won’t take payment until the job is complete. We will phone you to process your payment.  Or if you prefer, you can call us",
+        "captionTwo": "If you want to cancel please call our dedicated AA-X service team.",
+        "infoCaption": "Make a payment",
+        "infoText": "Call our AA-X service team\nmember on 0330 053 0466",
+        "title": "Payment processing"
+      },
+      "preChecks": {
+        "after": {
+          "caption_garage": "Always ask the garage about opening and closing hours to plan your pick up.\n\nA receipt and price summary will be emailed to you and record will be kept in the app. This can be found in the Bookings section on your AA-X dashboard.",
+          "caption_mobile": "The owner of the vehicle will need to be available to collect the keys from the mechanic on completion of the repair.\n\nA receipt and price summary will be emailed to you and record will be kept in the app. This can be found in the Bookings section on your AA-X dashboard.",
+          "heading_bookingContext": "",
+          "heading_garage": "Pick up",
+          "heading_mobile": "On completion"
+        },
+        "before": {
+          "bulletOne_bookingContext": "",
+          "bulletOne_garage": "Make sure to drop off your vehicle first thing in the morning. And don’t forget to check your garage’s opening hours.",
+          "bulletOne_mobile": "Make sure the vehicle is parked on a level surface with good access all around.",
+          "bulletThree_bookingContext": "",
+          "bulletThree_garage": "",
+          "bulletThree_mobile": "Please provide vehicle keys to the mechanic on arrival.",
+          "bulletTwo_bookingContext": "",
+          "bulletTwo_garage": "Your AA-X app dashboard will be updated with important details like the date, directions to the garage, and contact details.",
+          "bulletTwo_mobile": "Make sure the vehicle is parked off the main road i.e. driveway/car park and that you have access permission at that location.",
+          "caption_garage": "Some pointers on making your visit a breeze.",
+          "caption_mobile": "A few tips to make sure the Mobile Mechanic can perform the job.",
+          "heading_bookingContext": "",
+          "heading_garage": "Before your visit",
+          "heading_mobile": "Before your Mobile Mechanic arrives"
+        },
+        "during": {
+          "bulletOne_bookingContext": "",
+          "bulletOne_mobile": "Make sure the Locking Wheel Nut Key and Service Book are left on the Passenger seat before the mechanic arrives. If they aren’t, we won’t be able to remove your wheels or stamp your service book.",
+          "bulletTwo_bookingContext": "",
+          "bulletTwo_mobile": "The mechanic will road test the vehicle before and after completing the work you booked- please make sure they can get in and out.",
+          "caption_garage": "If the garage finds new issues with your car we will always call you before carrying out any additional repairs.\n\nWe will phone you when the job is complete and to take your payment.",
+          "caption_mobile": "If the mechanic finds new issues with your car we’ll always call you before carrying out any additional repairs.",
+          "captionTwo_mobile": "Please provide vehicle keys to the mechanic on arrival.",
+          "heading_bookingContext": "",
+          "heading_garage": "Garage visit",
+          "heading_mobile": "During your Mobile Mechanic visit"
+        }
+      }
+    },
+    "collectionAndReturnAvailable": "Collect and return available",
+    "confirmation": {
+      "colectAndReturn": {
+        "title": "Collect and return address"
+      }
+    },
+    "confirmationScreen": {
+      "backButton": "Back to dashboard",
+      "bookingDate": {
+        "title": "Date and location"
+      },
+      "estimate": {
+        "caption": "Pay the exact price shown in the app if our prediction is correct. We will always contact you if additional work is needed that will increase the price.",
+        "title": "Estimated cost of repair"
+      },
+      "title": "",
+      "title_AWAITING_PAYMENT": "Booking is waiting for payment",
+      "title_CANCELLED": "Booking cancelled",
+      "title_CREATED": "Booking confirmed",
+      "title_FEE_WAIVED": "Booking is waiting for payment",
+      "title_INVOICE_ISSUED": "Booking completed",
+      "title_PAYMENT_APPROVED": "Booking confirmed",
+      "title_PAYMENT_CAPTURED": "Payment received",
+      "title_PAYMENT_FINALISED": "Booking is waiting for payment",
+      "title_PENDING_ADDITIONAL_WORK": "Booking require additional work",
+      "title_statusMessage": "",
+      "title_WORK_COMPLETED": "Booking confirmed"
+    },
+    "confirmGarage": {
+      "changeSelected": {
+        "cta": "Change",
+        "title": "Selected location"
+      },
+      "collectionAndReturnAvailable": {
+        "label": "Collect and return",
+        "title": "Address for collection and return"
+      },
+      "date": {
+        "cta": "Select date for repair",
+        "cta_set": "Change date"
+      },
+      "dateTitle": "Selected date for this garage",
+      "dateTitle_mobile": "Selected date for your mobile repair",
+      "dateTitle_translationContext": "",
+      "location": {
+        "title": "Location:"
+      }
+    },
+    "deliveryAddress": {
+      "title": "Confirm collection and return address",
+      "title_mobile": "Confirm your address for mobile repair",
+      "title_mode": ""
+    },
+    "MOTService": {
+      "bookMot": {
+        "caption": "Here are the details for your MOT booking",
+        "title": "MOT Service"
+      },
+      "repairDetail": {
+        "caption": "Repair detail"
+      }
+    },
+    "overview": {
+      "button": {
+        "title": "Book a garage"
+      }
+    },
+    "selectGarage": {
+      "bookingOption": {
+        "title": "Select booking option"
+      },
+      "cta": "Select Garage",
+      "cta_mobile": "Select Mobile Repair",
+      "cta_translationContext": "",
+      "locationTitle": "Mobile repair location",
+      "mobile": {
+        "point_one": "One of our roadside heroes will come to you",
+        "point_two": "Expert knowledge and cutting-edge tech.",
+        "point_item": "",
+        "point_three": "Stress free and no call out fee"
+      },
+      "nextAvailableDate": "Next available date",
+      "repairOption": {
+        "caption": "Our place or yours? Pick a garage or choose a date for a mobile mechanic to come to you at no additional charge.",
+        "title": "Select repair option"
+      },
+      "title_garage": "Garage repair",
+      "title_mobile": "Mobile repair",
+      "title_repairType": "",
+      "title_translationContext": ""
+    },
+    "service": {
+      "addService": {
+        "caption": "Select a service you would like for your vehicle. Only one service can be added",
+        "title": "Add services"
+      },
+      "button": {
+        "title": "Select a garage"
+      },
+      "selectService": {
+        "caption": "Catered service options available for your vehicle",
+        "title": "Select a service"
+      }
+    }
+  },
+  "bookingHistory": {
+    "empty": "No bookings yet"
+  },
+  "estimationProduct": {
+    "cta": {
+      "addToBasket": "Add to booking",
+      "removeFromBasket": "Remove"
+    }
+  },
+  "garageConfirmationScreen": {
+    "mobile": {
+      "form": {
+        "input": {
+          "additionalInfo": {
+            "label": "Additional Information (apartment, floor etc)"
+          },
+          "address": {
+            "label": "Address"
+          },
+          "city": {
+            "label": "City"
+          },
+          "postcode": {
+            "label": "Postcode"
+          }
+        }
+      }
+    }
+  },
+  "garageSelectionScreen": {
+    "form": {
+      "input": {
+        "cta": "Search",
+        "postcode": {
+          "label": "Postcode"
+        }
+      }
+    }
+  },
+  "insightRecommendation": {
+    "infoTitle": "What can you do?",
+    "noBasket": "You have booked a repair for all recommendations",
+    "optionDescription_BATTERY": "We recommend getting your battery tested at a trusted garage, they will be able to confirm whether a replacement is needed",
+    "optionDescription_ENGINE": "We recommend you book into a garage immediately to confirm and repair this fault, and any other issues that may be contributing to it.",
+    "optionDescription_variant": "",
+    "optionFooter": "The price may change depending on the outcome of the garage diagnostic. Other issues may be detected.",
+    "optionTitle": "Book your vehicle for repair"
+  },
+  "PaymentProcessing": {
+    "form": {
+      "input": {
+        "phone": {
+          "label": ""
+        }
+      }
+    }
+  }
+}
