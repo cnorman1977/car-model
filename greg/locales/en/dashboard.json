@@ -78,7 +78,7 @@
     "healthStatus_veryPoor": "Very Poor"
   },
   "carInfoWidget": {
-    "title": "XXXGeneral car healthXXX"
+    "title": "General car health"
   },
   "dongleStatus": {
     "connectionConfirmed": {
