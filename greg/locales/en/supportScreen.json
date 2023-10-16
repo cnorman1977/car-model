@@ -1,0 +1,17 @@
+{
+  "deleteAccount": {
+    "message": {
+      "cancel": {
+        "cta": "Cancel"
+      },
+      "delete": {
+        "cta": "Delete my account"
+      },
+      "postDeleted": {
+        "title": "Your account has been marked for deletion"
+      },
+      "subtitle": "Your AA-X account will be marked for deletion, and you will no longer be able to login to AA-X to receive insights about your vehicle",
+      "title": "Are you sure you want to delete your account?"
+    }
+  }
+}

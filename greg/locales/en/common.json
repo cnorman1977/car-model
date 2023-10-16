@@ -1,5 +1,10 @@
 {
   "common": {
+    "accountClosed": {
+      "callUsCTA": "Call us",
+      "message": "It looks like your account has been closed. If you think this is an error our support team can help. Call us on 03300 530466.",
+      "signOutCTA": "Sign out"
+    },
     "billing": {
       "incVat": "inc. VAT"
     }

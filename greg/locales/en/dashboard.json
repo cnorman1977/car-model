@@ -11,6 +11,7 @@
         "addressLine3": {
           "label": "Address Line 3"
         },
+        "button": "Confirm details",
         "city": {
           "label": "City"
         },

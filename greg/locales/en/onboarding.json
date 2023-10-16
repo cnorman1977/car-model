@@ -8,7 +8,10 @@
       "cta": "Check eligibility"
     },
     "lastUpdated": "Last updated: March 2023",
-
+    "terms": {
+      "text": "Please click the link below and carefully read the AA-X  Terms.",
+      "title": "AA-X Terms"
+    },
     "termsAndConditionsForm": {
       "checkbox": {
         "error": "You must agree to the terms and conditions to continue."
@@ -20,6 +23,10 @@
     "title": "AA-X - Important Information"
   },
   "dongleInstall": {
+    "reminder": {
+      "body": "We noticed you haven’t connected your plug-in. Didn't receive it or need help? There’s a guide in the app, or call the AA-X Helpline on 0330 053 0466 if you need a human.",
+      "title": "Everything AA OK?"
+    },
     "video": {
       "step1": "The plug-in",
       "step2": "The OBD port",
@@ -69,7 +76,7 @@
     "eligibilitySuccess": {
       "callToAction": "Sign in",
       "info": "Next up, sign into your AA account or create one so we can get you on the road to great car health.",
-      "title": "Great news, you're eligible to use AA-X with your vehicle for a limited time during this free testing period."
+      "title": "Great news, you're eligible to use AA-X with your vehicle for free for a limited time."
     }
   },
   "oem:faq": {

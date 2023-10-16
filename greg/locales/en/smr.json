@@ -35,6 +35,7 @@
     }
   },
   "booking": {
+    "bookingConfirmation": "Booking reference: {{ unityId }}",
     "bookingConfirmed": {
       "bookingAccordion": {
         "caption_bookingContext": "",
@@ -162,12 +163,25 @@
       },
       "repairDetail": {
         "caption": "Repair detail"
+      },
+      "repairs": {
+        "title": "Repair detail"
       }
     },
     "overview": {
       "button": {
         "title": "Book a garage"
-      }
+      },
+      "existingCover": {
+        "section1": "If you are in a breakdown situation, please refer to your AA breakdown cover and request assistance via the contact details specified in your policy documents.",
+        "section2": "If you have an existing car warranty then you should contact your warranty provider to see if you are covered for any recommended repairs before purchasing them through the AA-X App.",
+        "title": "Important info - Check your existing cover"
+      },
+      "repairDetails": {
+        "title": "Repair detail"
+      },
+      "subtitle": "A summary of what needs to be repaired and what we estimate it will cost.",
+      "title": "Your recommended repair"
     },
     "selectGarage": {
       "bookingOption": {
@@ -176,6 +190,12 @@
       "cta": "Select Garage",
       "cta_mobile": "Select Mobile Repair",
       "cta_translationContext": "",
+      "error": {
+        "noGarages": {
+          "subtitle": "We're adding loads of garages all the time. Try entering another one nearby.",
+          "title": "Uh-oh we don't have garages for this postcode yet."
+        }
+      },
       "locationTitle": "Mobile repair location",
       "mobile": {
         "point_one": "One of our roadside heroes will come to you",
@@ -210,30 +230,110 @@
   "bookingHistory": {
     "empty": "No bookings yet"
   },
-  "estimationProduct": {
-    "cta": {
-      "addToBasket": "Add to booking",
-      "removeFromBasket": "Remove"
-    }
-  },
-  "garageConfirmationScreen": {
-    "mobile": {
+  "bookingSummary": {
+    "bookingWidget": {
+      "closed": {
+        "bookingReference": "Booking reference: {{unityId}}"
+      },
+      "mobile": {
+        "location": "Your specified location"
+      },
+      "viewInvoice": {
+        "cta": "View invoice"
+      }
+    },
+    "cta": "Confirm selection",
+    "estimationProduct": {
+      "cta": {
+        "addToBasket": "Add to booking",
+        "removeFromBasket": "Remove"
+      }
+    },
+    "garageConfirmationScreen": {
+      "mobile": {
+        "form": {
+          "input": {
+            "additionalInfo": {
+              "label": "Additional Information (apartment, floor etc)"
+            },
+            "address": {
+              "label": "Address"
+            },
+            "city": {
+              "label": "City"
+            },
+            "postcode": {
+              "label": "Postcode"
+            }
+          }
+        }
+      }
+    },
+    "garageSelectionScreen": {
       "form": {
         "input": {
-          "additionalInfo": {
-            "label": "Additional Information (apartment, floor etc)"
-          },
-          "address": {
-            "label": "Address"
-          },
-          "city": {
-            "label": "City"
-          },
+          "cta": "Search",
           "postcode": {
             "label": "Postcode"
           }
         }
       }
+    },
+    "insightRecommendation": {
+      "infoTitle": "What can you do?",
+      "noBasket": "You have booked a repair for all recommendations",
+      "optionDescription_BATTERY": "We recommend getting your battery tested at a trusted garage, they will be able to confirm whether a replacement is needed",
+      "optionDescription_ENGINE": "We recommend you book into a garage immediately to confirm and repair this fault, and any other issues that may be contributing to it.",
+      "optionFooter": "The price may change depending on the outcome of the garage diagnostic. Other issues may be detected.",
+      "optionTitle": "Book your vehicle for repair"
+    },
+    "paymentConfirmation": {
+      "info": {
+        "title": "Expect our AA-X service team member to contact you on a number like this 03300 530466"
+      },
+      "phoneContainer": {
+        "subtitle": "This is the number we will use to discuss your booking",
+        "title": "Confirm mobile contact number"
+      },
+      "primaryCta": "Confirm and book",
+      "title": "Payment Processing"
+    },
+    "paymentInfo": {
+      "subtitle": "We’ll contact you to take payment after your repair is completed, and the exact cost is agreed."
+    },
+    "preAuthWarning": "Funds must be available at pre-authorization on the card used for booking, or your appointment could be cancelled. We accept Visa, Mastercard and debit.",
+    "pricePromise": "Pay the exact price shown in the app if our prediction is correct. We will always contact you if additional work is needed that will increase the price",
+    "repair": {
+      "warning": "We'll call up to 1 day before with your repair time slots"
+    },
+    "repairSection": {
+      "title": "Estimated cost of repair"
+    },
+    "section": {
+      "payment": {
+        "title": "Payment"
+      },
+      "repair": {
+        "title": "Repair cost"
+      }
+    },
+    "termsAndConditions": "I accept that the AA-X Repair Service will be provided to me on the date of my booking. I acknowledge that I can not cancel my contract once the services have been completed"
+  },
+  "bookingWidget": {
+    "closed": {
+      "bookingReference": "Booking reference: {{unityId}}"
+    },
+    "mobile": {
+      "location": "Your specified location"
+    },
+    "viewInvoice": {
+      "cta": "View invoice"
+    }
+  },
+  "estimationProduct": {
+    "cta": {
+      "addToBasket": "Add to booking",
+      "removeFromBasket": "Remove"
     }
   },
   "garageSelectionScreen": {
@@ -255,11 +355,23 @@
     "optionFooter": "The price may change depending on the outcome of the garage diagnostic. Other issues may be detected.",
     "optionTitle": "Book your vehicle for repair"
   },
-  "PaymentProcessing": {
+  "paymentConfirmation": {
+    "info": {
+      "title": "Expect our AA-X service team member to contact you on a number like this 03300 530466"
+    },
+    "phoneContainer": {
+      "subtitle": "This is the number we will use to discuss your booking",
+      "title": "Confirm mobile contact number"
+    },
+    "primaryCta": "Confirm and book",
+    "title": "Payment Processing"
+  },
+  "paymentProcessing": {
     "form": {
       "input": {
         "phone": {
-          "label": ""
+          "label": "",
+          "placeholder": "+447911 123456"
         }
       }
     }

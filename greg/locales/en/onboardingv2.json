@@ -1,25 +1,197 @@
 {
+  "confirmAddress": {
+    "button": "Confirm and order",
+    "caption": "Please check the address carefully before ordering your plug-in.",
+    "link": "Edit",
+    "title": "Confirm address and place order"
+  },
+  "connectAccount": {
+    "button": "Connect account",
+    "caption": "",
+    "caption_loggedIn": "We need to connect your AA account with your AA-X account. We need to do this so we can match your details.\n\nIt will only take a minute then you’ll be all setup.",
+    "caption_loggedOut": "We’ll take you to the AA website to sign in, so have your username and password ready.\n\nIf you haven’t used the AA website or App before, don’t worry - you can create an account.",
+    "heading": "We just need to connect your AA-X account with your AA account",
+    "title": "Connect with your AA account"
+  },
+  "connectionConfirmed": {
+    "caption": "We’ve found your account",
+    "caption_connected": "All done!",
+    "caption_connecting": "Syncing your information",
+    "caption_loadingText": "",
+    "heading": "Connecting...",
+    "heading_connected": "Connected",
+    "heading_connecting": "Connecting...",
+    "heading_loadingText": "",
+    "title": "Connect with your AA account"
+  },
+  "connectOem": {
+    "button": "Continue",
+    "caption": "Your car collects lots of useful data all the time. Having this is the key to AA-X’s  engine. We can’t run without it. So let’s get you sharing.",
+    "heading": "Get personalised insights and alerts by linking your car to the app",
+    "infoModal": {
+      "caption": "Your car collects lots of useful data all the time. Having this is the key to AA-X’s engine. We can’t run without it.\n\nWe analyse the information we get from your car to give you personalised insights about its health, help you look after your battery and engine, and learn how to drive more efficiently.\n\nIf you decide not to share your data with us, you’ll no longer be able to use AA-X.\n\nPlease make sure you read the manufacturer’s privacy notice about how they process your personal information.",
+      "title": "How we use the data"
+    },
+    "infoPressable": "How we use the data",
+    "title": "Connect your car data"
+  },
+  "deliveryAddress": {
+    "button": "Confirm your vehicle",
+    "caption": "* Mandatory fields.",
+    "form": {
+      "input": {
+        "addressLine1": {
+          "label": "Address Line 1*"
+        },
+        "addressLine2": {
+          "label": "Address Line 2*"
+        },
+        "addressLine3": {
+          "label": "Additional information"
+        },
+        "button": "Confirm details",
+        "city": {
+          "label": "City*"
+        },
+        "county": {
+          "label": "County*"
+        },
+        "fullName": {
+          "label": "Full name*"
+        },
+        "postcode": {
+          "label": "Postcode*"
+        }
+      }
+    },
+    "heading": "Enter your address",
+    "subheading": "We’ll send your plug-in to the address below. UK only.",
+    "title": "Order your plug-in"
+  },
+  "disclaimer": {
+    "button": "OK, got it",
+    "caption": "Important information about your AA-X account",
+    "listItem1": "AA-X is separate from your AA Breakdown membership. It stands alone as it’s own useful product.",
+    "listItem2": "The AA-X app is currently free for  eligible customers for their first 12 months, with no obligation to renew.",
+    "listItem3": "We might give you alerts about your car’s health and possible faults. We usually get it right, but our suggestions should always be confirmed by an inspection.",
+    "listItem4": "AA-X Repairs are not included and must be purchased separately.",
+    "termsHeading": "AA-X Terms",
+    "title": "Create your AA-X account"
+  },
+  "dongleInfo": {
+    "button": "Order the plug-in",
+    "connection": "The plug-in fits easily into a port in your car allowing it to talk to AA-X.",
+    "infoModal": {
+      "caption": "The plug-in is a little pairing device that allows your car’s computer to talk to the app.\n\nIt uses similar technology as a garages performing a diagnostic test.\n\nThis is how we give you personalised health updates and important alerts about your battery, engine and more.",
+      "privacyPolicy": "Read our FAQs",
+      "title": "About the AA-X plug-in"
+    },
+    "infoPressable": "Learn more about the plug-in",
+    "model": "Toyota\nAvensis Tourer",
+    "title": "Now it’s time to order your plug-in"
+  },
+  "eligibility": {
+    "eligibilityCheck": {
+      "button": "Check vehicle",
+      "input": {
+        "carRegistration": {
+          "label": "Vehicle registration number",
+          "placeholder": "ABC 123"
+        }
+      }
+    }
+  },
+  "eligibilityCheck": {
+    "button": "Check compatibility",
+    "caption": "AA-X is currently available for AA Breakdown members.",
+    "enterCaption": "Enter your registration number to check",
+    "infoModal": {
+      "caption": "AA-X covers most vehicle makes and models.\n\nPetrol/hybrid vehicles from 2001 onwards.\nDiesel/hybrid vehicles from 2006 onwards.\n\nWe aren’t set up for electric vehicles yet, but we are working on it.",
+      "title": "About compatible vehicles"
+    },
+    "listItem1": "Petrol/hybrids from 2001 onwards",
+    "listItem2": "Diesel/hybrids from 2006 onwards",
+    "listItem3": "Electric vehicles aren’t currently supported",
+    "listItem4": "Electric vehicles aren’t currently supported",
+    "pressable": "Most makes and models of car are compatible.",
+    "title": "Check whether your vehicle is compatible"
+  },
+  "eligibilityError": {
+    "caption": "We can’t offer you an AA-X account. Probably because of the age of your vehicle.",
+    "infoModal": {
+      "button": "Learn about compatible car models"
+    },
+    "title": "Sorry, your vehicle isn’t compatible"
+  },
+  "eligibilitySuccess": {
+    "button": "Confirm your vehicle",
+    "caption": "Sweet. We’ve found your car. Please confirm we’ve got it right.",
+    "fuelType": "Petrol",
+    "info": "Not your vehicle? You can go back to the confirm compatibility step and retry.",
+    "model": "{{make}}\n{{model}}",
+    "title": "Great news your car is compatible",
+    "transmissionType": "Manual"
+  },
+  "notificationConsent": {
+    "confirmButton": "Enable notifications",
+    "denyButton": "Maybe later",
+    "subheading": "Enable notifications to get the most out of AA-X, like health updates, potential faults and appointment reminders.",
+    "title": "Switch on alerts and reminders"
+  },
+  "oemConfirmation": {
+    "button": "Back to AA-X",
+    "caption": "Thanks, consent has been authorised and we are connecting the data.",
+    "heading": "All done"
+  },
+  "oemConsent": {
+    "button": "Take me there",
+    "caption": "There you will enter information about your car, so it can share data with the app.",
+    "heading": "We’re taking you to your manufacturer’s website",
+    "title": "Connect your car data"
+  },
+  "oemInfo": {
+    "button": "Start connecting",
+    "connection": "Connect to your car manufacturer’s feed and it will  send data direct to the app. No plug-in required.",
+    "infoModal": {
+      "caption": "The plug-in is a little pairing device that allows your car’s computer to talk to the app.\n\nIt uses similar technology as a garages performing a diagnostic test.\n\nThis is how we give you personalised health updates and important alerts about your battery, engine and more.",
+      "title": "About connecting to manufacturer"
+    },
+    "infoPressable": "Learn more about the OEM connection",
+    "model": "Volvo\nC70 Automaster, 2020",
+    "title": "Your vehicle is compatible via direct connection"
+  },
+  "orderConfirmed": {
+    "button": "Continue",
+    "heading": "It should arrive in 2-3 working days",
+    "subheading": "We’ll send you status updates in the app",
+    "title": "Order received, Woohoo!"
+  },
   "splashScreen": {
     "loadingMessage": {
       "text": "Loading your details..."
     }
   },
   "welcome": {
-    "page1": {
-      "subtitle": "Using data from your car and smart AI",
-      "title": "Understand what’s going on under the bonnet"
+    "getStarted": {
+      "button": "Get started"
     },
-    "page2": {
-      "subtitle": "We help spot small issues before they become big problems",
-      "title": "Get alerts if something seems wrong"
+    "login": {
+      "button": "Already an AAx member? Sign in"
     },
-    "page3": {
-      "subtitle": "If your car needs some love",
-      "title": "Easily book a garage or Mobile Mechanic "
+    "nextPage": {
+      "button": "OK, got it",
+      "button_buttonContext": "",
+      "button_lastPage": "Start compatibility"
     },
-    "page4": {
-      "subtitle": "You’ll need an active AA membership to use AA-X",
-      "title": "Get connected"
-    }
+    "subtitle_page": "",
+    "subtitle_page1": "AA-X connects to your car to help you understand and take action on insights and predictions",
+    "subtitle_page2": "Real time data straight from your car helps nip problems in the bud",
+    "subtitle_page3": "Rest easy with the AA garage network and estimates up front",
+    "subtitle_page4": "With a plug-in device or directly to your car’s computer",
+    "title_page": "",
+    "title_page1": "Take the stress out of car ownership with car intelligence",
+    "title_page2": "Get personalised health updates and important alerts",
+    "title_page3": "Book a trusted AA garage\n",
+    "title_page4": "Simply connect your car to your phone"
   }
 }

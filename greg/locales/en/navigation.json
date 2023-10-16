@@ -1,4 +1,7 @@
 {
+  "eventLoadingSplashScreen": {
+    "title": "Please wait"
+  },
   "tab": {
     "title": {
       "dashboard": "Dashboard",
