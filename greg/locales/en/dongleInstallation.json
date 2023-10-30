@@ -1,0 +1,115 @@
+{
+  "ConnectionSuccess": {
+    "button": "Take me to the dashboard",
+    "listItem1": "We’ll notify you when the plug-in has synced and started to stream data",
+    "listItem2": "It might take up to 20 min for data to start appearing in your app dashboard",
+    "listItem3": "Taking your car for few drives will help get the data flowing to the app",
+    "title": "Success! Your plug-in is installed"
+  },
+  "fitmentGuideErrorModal": {
+    "caption": "When searching, include the Make, Model and Year of Manufacture for your car.\n\nThis website can also help: OBD location https://www.wikiobd.co.uk/\n\nIf you’re stuck our assist team are always here to help.\n\n\n\n*WikiOBD is not affiliated with AA-X",
+    "heading": "How can I find my OBD port?",
+    "helpCTA": "Take me to wikiOBD website",
+    "subtitle": "It's rare, but this happens sometimes. Don't give up. A simple online search for your make and model, should do the trick.",
+    "title": "Hmm, we don’t know location of the OBD port"
+  },
+  "fitmentGuideModal": {
+    "caption": "More information and visuals to help you find the OBD port.",
+    "helpButton": "Need more help? Call us",
+    "model": "",
+    "navButton": "Continue",
+    "title": "Instructional step by step guidance"
+  },
+  "insertPlugin": {
+    "button": "I’ve done it",
+    "helpButton": "Need more help? Call us",
+    "listItem1": "Slot your plug-in to the OBD port. Make sure you’ve lined up the plug-in and the port and pushed it firmly into position",
+    "listItem2": "A small red light will flash to let you know it’s connected. Don’t worry if you don’t spot the flashing light, sometimes it’s hard to see",
+    "title": "Insert plug-in"
+  },
+  "meetPlugin": {
+    "button": "Next",
+    "listItem1": "If your car needs an extension cable, you’ll find one under the box insert",
+    "listItem2": "It’s how we’re able to give you real time alerts and car health updates",
+    "listItem3": "We only use your data to empower you. It's never shared and never used against you",
+    "subTitle": "In the box you’ll find the AA-X plug-in. It connects to your car’s diagnostic port to get data from your car.",
+    "title": "Meet the AA-X Plug-in"
+  },
+  "miniSuccess": {
+    "caption": "You’re all plugged in. If that was a first, give yourself a pat on the back.",
+    "title": "Well done, you did it!"
+  },
+  "noOBD": {
+    "helpCTA": "How can I find my OBD port?",
+    "messageCard": {
+      "title": "We don't have specific details about your car, but our guide can help explain how installation works"
+    },
+    "OBDFindingTipsModal": {
+      "subtitle": "Sometimes we don’t know every car OBD location. You can try and find it yourself by a simple google search.\n\nTo make sure you start off on the right road, try to include the Make, Model and year of manufacture car you are searching for.\n\nYou can also try and search this website for the OBD location\n\nhttps://www.wikiobd.co.uk/\n\n(AA-X has no affiliation to wiki OBD, it is an independent website resource)\n\nWe are always here to help if you are stuck and you can get in touch with our assist team.",
+      "title": "Tips to find your OBD port"
+    },
+    "subtitle": "It's rare, but this happens sometimes. Please don't give up. Simply search online for your make and model and you should to find it",
+    "title": "Hmm, we don’t know location of the OBD port"
+  },
+  "pluginInfo": {
+    "button": "Next",
+    "listItem1": "Every car has an OBD port - it’s the same port a mechanic uses to diagnose your car. You won't harm your car by using it",
+    "listItem2": "It has its own distinctive shape and can vary in colour between car make and models",
+    "listItem3": "Sometimes they’re tricky to find and can be tucked away behind panels or other compartments\n\nDon’t worry we will help you find yours on the next step",
+    "title": "The plug-in slots into an OBD port in your car."
+  },
+  "pluginLocation": {
+    "button": "Continue",
+    "guideButton": "View detailed guide",
+    "listItem1": "It may be behind a cover or panel, you may need a cable to attach it. You should be able to remove it by hand",
+    "listItem2": "If you need help, find photos of your car in our detailed guide",
+    "modal": "Guidance for your vehicle:\n",
+    "model": "Guidance for your vehicle:",
+    "subTitle": "",
+    "subTitle_error": "Find your OBD port location in our detailed guide below",
+    "subTitle_imageContext": "",
+    "subTitle_lhd01": "Your OBD port is in the centre below the steering wheel",
+    "subTitle_lhd02": "Your OBD port is on the left below the steering wheel",
+    "subTitle_lhd03": "Your OBD port is on the right below the steering wheel",
+    "subTitle_lhd04": "Your OBD port is on the left of the steering wheel",
+    "subTitle_lhd05": "Your OBD port is on the right of the steering wheel",
+    "subTitle_lhd06": "Your OBD port is on the driver side of the centre console",
+    "subTitle_lhd07": "Your OBD port is on the passenger side of the centre console",
+    "subTitle_lhd08": "Your OBD port is at the lower part of the centre console",
+    "subTitle_lhd09": "Your OBD port is in the armrest compartment",
+    "subTitle_lhd10": "Your OBD port is next to the glove compartment",
+    "subTitle_lhd11": "Your OBD port is on the driver side A-pillar",
+    "subTitle_lhd12": "Your OBD port is on the passenger side A-pillar",
+    "subTitle_lhd13": "Your OBD port is underneath the driver seat",
+    "subTitle_lhd14": "Your OBD port is on the left side of the fuse box compartment",
+    "subTitle_lhd15": "Your OBD port is on the passenger side of the fuse box compartment",
+    "subTitle_lhd17": "Your OBD port is in the armrest compartment",
+    "subTitle_rhd01": "Your OBD port is in the centre below the steering wheel",
+    "subTitle_rhd02": "Your OBD port is on the left below the steering wheel",
+    "subTitle_rhd03": "Your OBD port is on the right below the steering wheel",
+    "subTitle_rhd04": "Your OBD port is on the left of the steering wheel",
+    "subTitle_rhd05": "Your OBD port is on the right of the steering wheel",
+    "subTitle_rhd06": "Your OBD port is on the driver side of the centre console",
+    "subTitle_rhd07": "Your OBD port is on the passenger side of the centre console",
+    "subTitle_rhd08": "Your OBD port is at the lower part of the centre console",
+    "subTitle_rhd09": "Your OBD port is in the armrest compartment",
+    "subTitle_rhd10": "Your OBD port is next to the glove compartment",
+    "subTitle_rhd11": "Your OBD port is on the driver side A-pillar",
+    "subTitle_rhd12": "Your OBD port is on the passenger side A-pillar",
+    "subTitle_rhd13": "Your OBD port is underneath the driver seat",
+    "subTitle_rhd14": "Your OBD port is on the right side of the fuse box compartment",
+    "subTitle_rhd15": "Your OBD port is on the passenger side of the fuse box compartment"
+  },
+  "screens": {
+    "title": "Connect your car"
+  },
+  "startGuide": {
+    "button": "Start",
+    "heading": "Before you start:",
+    "listItem1": "For your safety ensure your car is parked, it’s turned off and in a safe location off any busy roads or streets",
+    "listItem2": "Make sure your mobile connection is strong. The plug-in works on mobile network",
+    "listItem3": "Remember to bring the box with the plug-in with you",
+    "listItem4": "And you’re ready to find the OBD port and attach the plug-in",
+    "title": "You’re just a few steps away from stress-free car care."
+  }
+}

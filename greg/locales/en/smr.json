@@ -349,6 +349,7 @@
   "insightRecommendation": {
     "infoTitle": "What can you do?",
     "noBasket": "You have booked a repair for all recommendations",
+    "optionButton": "See repair options",
     "optionDescription_BATTERY": "We recommend getting your battery tested at a trusted garage, they will be able to confirm whether a replacement is needed",
     "optionDescription_ENGINE": "We recommend you book into a garage immediately to confirm and repair this fault, and any other issues that may be contributing to it.",
     "optionDescription_variant": "",
@@ -370,7 +371,6 @@
     "form": {
       "input": {
         "phone": {
-          "label": "",
           "placeholder": "+447911 123456"
         }
       }

@@ -73,11 +73,12 @@
       "title_other": "Unknown fault codes"
     },
     "unknownFault": {
-      "description": "We don’t have any information on this fault code right now. Lets get you booked in for a diagnostic check. If you want to discuss the fault with our experts, please get in touch.",
+      "description": "Sorry, we don’t have enough information on this fault code yet.  Give our technical team a call to discuss the next steps",
+      "heading": "Unknown fault code",
       "helpButton": {
         "title": "Call us"
       },
-      "title": "We’re not exactly sure about this code"
+      "title": "We’re not familiar with this code yet."
     }
   }
 }

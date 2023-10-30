@@ -142,6 +142,13 @@
       "subtitle": "Order tracking reference"
     }
   },
+  "events": {
+    "installDongle": {
+      "cta": "Start guide",
+      "subtitle": "Your plug-in kit connects to an OBD port in your car. Our guide will help you find the port and connect to AA-X.",
+      "title": "Let’s get you connected."
+    }
+  },
   "reportABreakDown": {
     "caption": "AA-X is separate from AA Breakdown. If you’ve broken down, follow the link to go to your AA Breakdown Membership",
     "cta": {
